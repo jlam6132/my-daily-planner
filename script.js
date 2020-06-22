@@ -106,7 +106,7 @@ $(document).ready(function() {
         if (test) { console.log("greaterthan"); }
         $hourRow.css("background-color","lightgreen")
       } else {
-        if (test) { console.log("eqaul"); }
+        if (test) { console.log("equal"); }
         $hourRow.css("background-color","tomato")
       }
     };
